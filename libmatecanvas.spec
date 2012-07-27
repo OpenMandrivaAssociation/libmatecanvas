@@ -5,12 +5,12 @@
 
 Summary:	GnomeCanvas widget
 Name:		libmatecanvas
-Version:	1.2.0
+Version:	1.4.0
 Release:	1
 License:	LGPLv2+
 Group:		System/Libraries
 URL:		http://mate-desktop.org
-Source0:	http://pub.mate-desktop.org/releases/1.2/%{name}/%{name}-%{version}.tar.xz
+Source0:	http://pub.mate-desktop.org/releases/1.4/%{name}/%{name}-%{version}.tar.xz
 
 BuildRequires: gtk-doc
 BuildRequires: intltool
