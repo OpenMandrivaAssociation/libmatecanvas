@@ -80,3 +80,14 @@ NOCONFIGURE=yes ./autogen.sh
 %{_libdir}/libglade/2.0/libgladematecanvas.so
 %{_libdir}/pkgconfig/*
 
+
+
+%changelog
+* Fri Jul 27 2012 Matthew Dawkins <mattydaw@mandriva.org> 1.4.0-1
++ Revision: 811356
+- new version 1.4.0
+
+* Thu May 31 2012 Matthew Dawkins <mattydaw@mandriva.org> 1.2.0-1
++ Revision: 801608
+- imported package libmatecanvas
+
