@@ -9,7 +9,7 @@ Version:	1.4.0
 Release:	1
 License:	LGPLv2+
 Group:		System/Libraries
-URL:		http://mate-desktop.org
+URL:		https://mate-desktop.org
 Source0:	http://pub.mate-desktop.org/releases/1.4/%{name}/%{name}-%{version}.tar.xz
 
 BuildRequires: gtk-doc
