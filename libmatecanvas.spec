@@ -12,6 +12,11 @@ Group:		System/Libraries
 URL:		https://mate-desktop.org
 Source0:	http://pub.mate-desktop.org/releases/1.4/%{name}/%{name}-%{version}.tar.xz
 
+BuildRequires:	autoconf
+BuildRequires:	automake
+BuildRequires:	libtool-base
+BuildRequires:	slibtool
+BuildRequires:	make
 BuildRequires: gtk-doc
 BuildRequires: intltool
 BuildRequires: mate-common
